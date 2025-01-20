@@ -80,7 +80,8 @@
       margin: 5px 0;
     }
 
-    /* Media Queries for responsive design */
+     
+  /* Media Queries for responsive design */
     @media (max-width: 600px) {
       .container {
         padding: 10px;
